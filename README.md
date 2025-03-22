@@ -2,7 +2,7 @@
 
 ![Hi (1)](https://github.com/user-attachments/assets/55475fd4-555a-40ca-a1c5-386906d3ea69)
 
----
+--
 🎓 **BTech in Computer Science Student** |  💻 **Full-Stack Web Dev Enthusiast** 
 🌱 Currently mastering **MERN Stack, ReactJS, and TypeScript**  
 🚀 Building projects to master **JavaScript, React, and backend development**  
@@ -51,20 +51,20 @@
 
 ---
 
-### **GitHub Stats**  📊 :
+### 📊 **GitHub Stats** :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhupesh227&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupesh227&layout=compact&theme=vision-friendly-dark)](https://github.com/bhupesh227)
 
 ---
 
-### **Let's Connect**  🌐 :
+### 🌐 **Let's Connect** :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-bora-2b4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shadows_of_wonder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
 
-###  **Coding Philosophy**  💡:
+###💡 **Coding Philosophy** :
 > "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"  
 > *(Focus on the work, not the results.)*  
 > – Bhagavad Gita
