@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Bhupesh Bora
+## Hi there 👋 I'm **Bhupesh Bora**
 
 ![Hi (1)](https://github.com/user-attachments/assets/55475fd4-555a-40ca-a1c5-386906d3ea69)
 
@@ -17,11 +17,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
-### 🔨 **Projects**  
+### **Projects** 🔨 : 
 #### **Featured Projects**  
 - 📚 **Book Store App** | MERN Stack  
   - A full-stack book inventory system with user authentication.
@@ -42,7 +43,7 @@
 
 ---
 
-### 📚 **Learning Goals**  
+### 📚 **Learning Goals**  :
 - Leveling up **TypeScript** for type-safe React apps  
 - Exploring **Next.js** for SSR/SSG  
 - Practicing **MERN stack optimizations**  
@@ -50,20 +51,20 @@
 
 ---
 
-### 📊 **GitHub Stats**  
+### **GitHub Stats**  📊 :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhupesh227&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupesh227&layout=compact&theme=vision-friendly-dark)](https://github.com/bhupesh227)
 
 ---
 
-### 🌐 **Let's Connect**  
+### **Let's Connect**  🌐 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-bora-2b4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shadows_of_wonder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
 
-### 💡 **Coding Philosophy**  
+###  **Coding Philosophy**  💡:
 > "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"  
 > *(Focus on the work, not the results.)*  
 > – Bhagavad Gita
