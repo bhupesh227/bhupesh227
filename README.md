@@ -1,7 +1,8 @@
-## Hi there 👋 I'm [Bhupesh Bora]
+## Hi there 👋 I'm Bhupesh Bora
+
 ![Hi (1)](https://github.com/user-attachments/assets/55475fd4-555a-40ca-a1c5-386906d3ea69)
 
-
+---
 🎓 **BTech in Computer Science Student** |  💻 **Full-Stack Web Dev Enthusiast** 
 🌱 Currently mastering **MERN Stack, ReactJS, and TypeScript**  
 🚀 Building projects to master **JavaScript, React, and backend development**  
