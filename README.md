@@ -64,7 +64,7 @@
 
 ---
 
-###💡 **Coding Philosophy** :
+### 💡 **Coding Philosophy** :
 > "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"  
 > *(Focus on the work, not the results.)*  
 > – Bhagavad Gita
