@@ -50,13 +50,13 @@
 - Solving DSA problems on LeetCode 💡  
 
 ---
-
+<!--
 ### 📊 **GitHub Stats** :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhupesh227&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupesh227&layout=compact&theme=vision-friendly-dark)](https://github.com/bhupesh227)
 
 ---
-
+-->
 ### 🌐 **Let's Connect** :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-bora-2b4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shadows_of_wonder)
