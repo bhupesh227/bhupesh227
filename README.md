@@ -4,7 +4,7 @@
 
 --
 🎓 **BTech in Computer Science Student** |  💻 **Full-Stack Web Dev Enthusiast** 
-🌱 Currently mastering **MERN Stack, ReactJS, and TypeScript**  
+🌱 Currently mastering **MERN Stack, NextJS, and TypeScript**  
 🚀 Building projects to master **JavaScript, React, and backend development**  
 
 
